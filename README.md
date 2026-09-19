@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0412-fizz-buzz) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Recursion
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0013-roman-to-integer) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
