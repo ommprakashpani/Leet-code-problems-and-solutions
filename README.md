@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
