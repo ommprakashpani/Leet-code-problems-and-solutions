@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0412-fizz-buzz) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0014-longest-common-prefix) |
 | [3524-find-x-value-of-array-i](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Trie
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/3524-find-x-value-of-array-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
