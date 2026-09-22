@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0014-longest-common-prefix) |
+| [1929-concatenation-of-array](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/1929-concatenation-of-array) |
 | [3524-find-x-value-of-array-i](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Trie
