@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0412-fizz-buzz) |
+| [1096-brace-expansion-ii](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/0013-roman-to-integer) |
+| [1096-brace-expansion-ii](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -59,4 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ommprakashpani/Leet-Code-Problems-And-Solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
